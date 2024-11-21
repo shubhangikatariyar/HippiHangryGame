@@ -24,5 +24,5 @@ This project is licensed under the [MIT License](LICENSE).
 - 📱 [Get it on Google PlayStore](https://play.google.com/store/apps/details?id=com.Teknack.HippiHangry&pli=1)
 
 
-## 👩‍💻 Author
+## 👩‍💻 Developer
 Developed with ❤️ by Pradnya Tendolkar and Shubhangi Katariyar.
