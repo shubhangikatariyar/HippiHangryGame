@@ -21,4 +21,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Download Hippi Hangry Game
 - [Download the game (.apk)](https://drive.google.com/drive/folders/1iG3p8rvlDdTxyW6VA08q_mMHPrqaoTSK?usp=sharing)
-- [Get it on Google Play](https://play.google.com/store/apps/details?id=com.Teknack.HippiHangry&pli=1)
+- [Get it on Google PlayStore](https://play.google.com/store/apps/details?id=com.Teknack.HippiHangry&pli=1)
