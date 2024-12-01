@@ -5,6 +5,7 @@
 ## 🎥 Demo  
 
 Check out the demo video of the game:  
+[![Demo](Hippi.gif)](https://youtube.com/shorts/TC2j8moP46k?feature=share)
 [▶️ Watch the demo on YouTube](https://youtube.com/shorts/TC2j8moP46k?feature=share)  
 
 ## ✨ Features  
