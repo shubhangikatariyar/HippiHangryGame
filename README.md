@@ -15,7 +15,7 @@ Check out the demo video of the game:
 - **🎮 Simple Controls**: Easy-to-learn controls to play.
 
 
-##📜 License
+## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
 
